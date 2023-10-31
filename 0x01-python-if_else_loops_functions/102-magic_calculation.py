@@ -2,8 +2,6 @@
 
 # 102-magic_calculation.py
 
-
-
 def magic_calculation(a, b, c):
 
     if a < b:
@@ -15,5 +13,3 @@ def magic_calculation(a, b, c):
         return (a + b)
 
     return (a*b - c)
-
-
